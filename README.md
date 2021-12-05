@@ -5,7 +5,6 @@
 1. Madhura Sawant
 2. Dipti Kavathkar
 3. Navyanova Chandalia
-4. Prerana Dhongadi
 
 
 ### **Project Description**

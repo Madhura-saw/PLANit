@@ -21,3 +21,5 @@ The application has the following features:
 7. Record keeping -This will let you keep a record of your study,workout or money/accounts.
 
 
+## **Screenshots**
+![image](https://drive.google.com/file/d/1SaxDV3NiOAGTHcKvjWoPop8QHztfbDcl/view?usp=sharing)

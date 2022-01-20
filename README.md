@@ -1,11 +1,17 @@
 # PLANit
 
+## **Team Name : VIGILANTES**
+
 ### **Team Members**
 
 1. Madhura Sawant
 2. Dipti Kavathkar
 3. Navyanova Chandalia
 
+### **Mentors**
+
+- Prerana Shelke
+- Priya Nagda
 
 ### **Project Description**
 

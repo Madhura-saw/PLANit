@@ -15,7 +15,7 @@
 
 ### **Project Description**
 
-This is an application which basically helps you organise your daily routine and studies particularly.
+This is an application which basically helps you organise your daily routine and studies particularly.This app allows the users to sign in to the app and make use of features which are useful in daily life like keeping a lists of tasks and reminders. Quick notes features lets you store your notes and edit them whenever you want. Also Records is a feature which help you plan your expenses and income or delete as per your convinience.
 
 The application has the following features:
 1. Reminders

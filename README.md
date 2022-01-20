@@ -18,6 +18,4 @@ The application has the following features:
 4. Money Records
 
 
-## **Screenshots**
-
 

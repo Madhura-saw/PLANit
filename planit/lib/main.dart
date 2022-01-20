@@ -1,29 +1,36 @@
 import 'package:flutter/material.dart';
-import 'package:planit/firstpg.dart';
-import 'package:planit/fpg.dart';
+import 'package:firebase_core/firebase_core.dart';
+import './page/home_page.dart';
+import 'package:animated_splash_screen/animated_splash_screen.dart';
 
-
-void main() {
-  runApp( MyApp());
+Future main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  
-  // This widget is the root of your application.
+  static final String title = 'Google SignIn';
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Planit',
+      debugShowCheckedModeBanner: false,
+      title: 'Authentication',
       theme: ThemeData(
-        
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.orange,
       ),
-      home: FPage(),
-
-      // routes:{
-      //   '/tiles': (ctx)=>  Tasks(),
-
-      // },
+      home: AnimatedSplashScreen(
+        splash: Image.asset(
+          'assets/images/logo2.jpeg',
+          // height: MediaQuery.of(context).size.width / 2.5,
+          // width: MediaQuery.of(context).size.width / 2.5,
+        ),
+        splashIconSize: double.infinity,
+        nextScreen: Homepage(),
+        splashTransition: SplashTransition.sizeTransition,
+        backgroundColor: const Color(0xffceeaee),
+      ),
     );
   }
 }

@@ -29,12 +29,14 @@ The application has the following features:
 - Dart
 - Firebase
 
+### **GITHUB REPO** - [PLANit](https://github.com/Madhura-saw/PLANit)
+### **DRIVE LINK** - [PLANit_Drive](https://drive.google.com/drive/u/0/folders/1MbgwVa9YpQw-VO38hTs-j07FLkWWYQXA)
+
 ### **Screenshots**
 ![1](https://user-images.githubusercontent.com/85047752/150369212-57689988-9561-479d-a1eb-368a22fadbaa.png)
 ![2](https://user-images.githubusercontent.com/85047752/150369227-af71f781-bfbd-4c87-9a9a-65d43bf62696.png)
 ![3](https://user-images.githubusercontent.com/85047752/150369235-16d7e1ba-2b7a-4152-9ca2-13746f6509ac.png)
 ![4](https://user-images.githubusercontent.com/85047752/150369247-821f96b4-eeca-4031-83fd-0c728eaf20a9.png)
 
-### **GITHUB REPO** - [PLANit](https://github.com/Madhura-saw/PLANit)
-### **DRIVE LINK** - [PLANit_Drive](https://drive.google.com/drive/u/0/folders/1MbgwVa9YpQw-VO38hTs-j07FLkWWYQXA)
+
 

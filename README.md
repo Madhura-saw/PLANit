@@ -36,7 +36,9 @@ The application has the following features:
 ![Slay it with PLANit](https://user-images.githubusercontent.com/85047752/150380478-1f65014d-ff1d-436a-8bf1-b77571473efd.png)
 ![2](https://user-images.githubusercontent.com/85047752/150369227-af71f781-bfbd-4c87-9a9a-65d43bf62696.png)
 ![3](https://user-images.githubusercontent.com/85047752/150369235-16d7e1ba-2b7a-4152-9ca2-13746f6509ac.png)
-![4](https://user-images.githubusercontent.com/85047752/150369247-821f96b4-eeca-4031-83fd-0c728eaf20a9.png)
+![4](https://user-images.githubusercontent.com/84861665/150480904-3d774d75-0d7a-497d-af87-9bce6a87df8f.png)
+![5](https://user-images.githubusercontent.com/84861665/150480972-4978329a-873e-41e0-a590-2400db187219.png)
+
 
 ### **Tree Structure**
 ![Tree Structure PLANit](https://user-images.githubusercontent.com/85047752/150378221-b679a9f2-9861-4f28-8f4d-ad1927e6929f.jpeg)
